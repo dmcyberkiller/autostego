@@ -12,4 +12,4 @@ It's very simple and easy to use.
 
 
 ## 2) ✅ Usage
-![image](https://github.com/dmcyberkiller/autostego/assets/164518476/0b25ca0b-8b0a-41e6-bc34-05da34e9b2ed)
+   ![image](https://github.com/dmcyberkiller/autostego/assets/164518476/0fb9405b-b244-4371-9436-a8a7bc849249)
