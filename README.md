@@ -6,6 +6,8 @@ It's very simple and easy to use.
    ![image](https://github.com/dmcyberkiller/autostego/assets/164518476/26af1006-727e-411c-8903-0358965f3716)
    ![image](https://github.com/dmcyberkiller/autostego/assets/164518476/6cd3adff-cb6d-46be-9d4c-c9410acbb251)
    ![image](https://github.com/dmcyberkiller/autostego/assets/164518476/e7b08893-48c0-42c2-9158-a0801d56dd01)
+   ![image](https://github.com/dmcyberkiller/autostego/assets/164518476/276dfcd8-f7a0-4613-8daa-8467d9ab702e)
+
 
 
 
