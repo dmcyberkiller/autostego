@@ -10,3 +10,15 @@ It's very simple and easy to use.
 
 ## 2) ✅ Usage
    ![image](https://github.com/dmcyberkiller/autostego/assets/164518476/0fb9405b-b244-4371-9436-a8a7bc849249)
+
+
+## ✅ My Tools
+1) https://github.com/dmcyberkiller/date-time.git
+## ✅ My Wordlist
+1) https://github.com/dmcyberkiller/HashCrack.git
+
+## ✅ My own Tryhackme👨🏼‍💻 Room
+1) https://tryhackme.com/jr/steghidedm
+2) https://tryhackme.com/jr/crackthehashes
+
+Visit my THM Room and complete the challenge:-
